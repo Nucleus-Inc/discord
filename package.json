@@ -1,0 +1,11 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "Import slack messages",
+  "main": "app.js",
+  "author": "nucleus.eti",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.17.3"
+  }
+}
